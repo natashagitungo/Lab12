@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup">signup</string>
+    <string name="title_activity_home">home</string>
+    <string name="txt_username">Enter Username</string>
+    <string name="txt_password">Input Password</string>
+    <string name="submit">done</string>
+    <string name="enter">Create Account</string>
+    <string name="txt_firstname">Enter Your Firstname</string>
+    <string name="txt_lastname">Enter Your Lastname</string>
+    <string name="phone">Start with code eg +254</string>
+    <string name="emailaddress">Enter Email</string>
+    <string name="createaccsuccessfully">create account successfully</string>
+</resources>
